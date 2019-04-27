@@ -1,0 +1,8 @@
+Tradicional:
+    python examples/example_io_tradicional.py
+
+AsyncIO:
+    python examples/example_io_asyncio.py
+
+Uploader:
+    python uploader.py folder album_name
